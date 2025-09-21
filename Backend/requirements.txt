@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+python-multipart
+aiofiles
+google-cloud-storage
+google-cloud-vision
+google-cloud-speech
+google-cloud-firestore
+google-cloud-aiplatform
+google-api-python-client
+python-docx
+PyPDF2
+pydantic-settings
+python-dotenv
